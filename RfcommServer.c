@@ -1,5 +1,5 @@
 /*
- * cd /home/facility/facilityshare/Biblioteca_de_Programas/Facility
+ * 
 compilation step
 # gcc -o RfcommServer.exe RfcommServer.c -lbluetooth -lpthread
 
